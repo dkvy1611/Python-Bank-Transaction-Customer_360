@@ -30,7 +30,7 @@ Dưới đây là bảng mô tả các cột trong bộ dữ liệu mẫu:
 | **TT**                   | Thứ tự giao dịch (mã định danh duy nhất cho mỗi giao dịch).                    |
 | **Mã giao dịch**         | Mã số giao dịch (có thể là mã định danh của ngân hàng hoặc hệ thống).         |
 | **Ngân hàng**            | Tên ngân hàng thực hiện giao dịch.                                              |
-| **Số tài khoản**         | Số tài khoản của khách hàng thực hiện giao dịch.                               |
+| **Số tài khoản**         | Số tài khoản khách hàng nhận của giao dịch.                               |
 | **Số tài khoản ảo**      | Số tài khoản ảo (nếu có) liên quan đến giao dịch (đối với các tài khoản ảo).  |
 | **Tên dòng tiền**        | Tên dòng tiền, có thể là loại giao dịch (ví dụ: chuyển khoản, nạp tiền, rút tiền).|
 | **Số tiền**              | Giá trị số tiền giao dịch.                                                      |
